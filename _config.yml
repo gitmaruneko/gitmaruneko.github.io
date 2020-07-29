@@ -1,0 +1,83 @@
+# Site settings
+title: '軟體食堂'
+description: ''
+keyword: '笛蕙桂, 笛蕙桂murmur, 笛蕙桂的BLOG, 軟體, 韌體, 韌體研發, 軟體工程, 軟體測試, 嵌入式系統測試, 敏捷, Scrum'
+url: 'https://gitmaruneko.github.io/' # your host
+
+# if you don't need baseurl, you should leave this value blank.
+baseurl: ''
+
+# Navigation links
+nav:
+  home: '/'
+  tags: '/tags.html'
+  about me: '/personal.html'
+
+
+# Footer
+footer:
+  since: 2017
+
+# Author 
+author: 'Maru'
+nickname: '笛蕙桂'
+bio: '韌體工程師, 因為懶所以有效率, 樂觀愛吃'
+avatar: '/assets/img/profile_maru.jpg'
+
+# Search
+search: true
+
+# Night mode
+nightMode: false
+
+# Comments 
+comments:
+  disqus: true
+  disqus_url: 'https://agilemaru.disqus.com/embed.js'
+
+# MathJax 
+mathjax: true
+
+# Share
+social-share: true
+social-share-items: ['facebook', 'twitter', 'linkedin']
+
+# theme color 
+theme-color: 'default'  # pink or default
+
+# Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
+postPatterns: 'circuitBoard'
+
+# SNS settings 
+# url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
+sns:
+  facebook: '//www.facebook.com/discretentut'
+  linkedin: '//www.linkedin.com/in/heidihuang/'
+  instagram: '//www.instagram.com/igmaruneko'
+  github: '//github.com/gitmaruneko'
+
+# Tags 
+recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
+
+# Build settings
+paginate: 6
+paginate_path: 'page:num'
+exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# RSS
+RSS: true
+
+# Permalink
+# See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
+permalink: /:year/:month/:day/:title.html
+
+# Plugins
+plugins: [jekyll-paginate]
