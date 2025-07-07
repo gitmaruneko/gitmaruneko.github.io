@@ -1,5 +1,5 @@
 # Site settings
-title: '軟工煮婦的副業實驗日誌'
+title: '軟工煮婦的多工人生筆記'
 description: ''
 keyword: '笛蕙桂, 笛蕙桂murmur, 笛蕙桂的BLOG, 軟體, 韌體, 韌體研發, 軟體工程, 軟體測試, 嵌入式系統測試, 敏捷, Scrum'
 url: 'https://gitmaruneko.github.io/' # your host
@@ -21,7 +21,7 @@ footer:
 # Author 
 author: 'Maru'
 nickname: '笛蕙桂'
-bio: '韌體工程師, 因為懶所以有效率, 樂觀愛吃'
+bio: '工程師的邏輯 × 媽媽的溫度 × 創作者的挑戰，一頁頁記錄不設限的生活堆疊.'
 avatar: '/assets/img/profile_maru.jpg'
 
 # Search
