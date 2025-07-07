@@ -1,7 +1,32 @@
+# Node modules and build files
+node_modules/
+dev/
+package.json
+package-lock.json
+gulpfile.js
+
+# System files
 .DS_Store
-*/.DS_Store
+Thumbs.db
 
-node_modules
-
-_site
+# Jekyll and site output
+_site/
+.sass-cache/
 .jekyll-cache/
+.jekyll-metadata
+
+# Local drafts or year-based posts (not for production)
+year_posts/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+*.swp
+*.swo
+
+# Ignore Ruby bundler files (optional, if not using bundler)
+# Gemfile.lock
+
+# Ignore VS Code settings (optional)
