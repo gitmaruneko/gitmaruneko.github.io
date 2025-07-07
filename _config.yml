@@ -21,7 +21,8 @@ footer:
 # Author 
 author: 'Maru'
 nickname: '笛蕙桂'
-bio: '工程師的邏輯 × 媽媽的溫度 × 創作者的挑戰，一頁頁記錄不設限的生活堆疊.'
+bio: '工程師的邏輯 × 媽媽的溫度 ×<br>
+      創作者的挑戰, <br>一頁頁記錄不設限的生活堆疊.'
 avatar: '/assets/img/profile_maru.jpg'
 
 # Search
@@ -53,7 +54,7 @@ postPatterns: 'circuitBoard'
 sns:
   facebook: '//www.facebook.com/discretentut'
   linkedin: '//www.linkedin.com/in/heidihuang/'
-  instagram: '//www.instagram.com/igmaruneko'
+  instagram: '//www.instagram.com/zenlifebuilder'
   github: '//github.com/gitmaruneko'
 
 # Tags 
